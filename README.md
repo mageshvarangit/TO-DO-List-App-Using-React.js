@@ -11,9 +11,6 @@ Here is the screenshot of the project.
   <li> Add Todo by pressing Enter key</li>
   <li> Delete Todo</li>
  </ol>
- <h1> Video tutorial for the same in Hindi</h1>
- <a href="https://youtu.be/RxPF47orKzo"> Video Tutorial</a>
-=======
 # TO-DO-List-App-Using-React.js
 Streamline your tasks with this MERN stack to-do list app, featuring task management and secure user authentication
 >>>>>>> c3fdafa004dc6f8155bd3a9795396278fdda3243
